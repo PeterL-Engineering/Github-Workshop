@@ -52,7 +52,7 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 * Go to History on the left
 * Right click on the commit where you forked the branch and press checkout commit
 * Now you are on an old commit
-* Make a new branch
+* Make a new branch 
 * Edit the readme with in the first commit and write something different than what you wrote before
 * Commit and Push
 * Then make a pull request
